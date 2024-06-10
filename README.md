@@ -1,4 +1,4 @@
-<h1>Sorteador de números</h1>
+<h1>AluGames</h1>
 
 <h2> :memo: Sobre</h2>
 <p>Projeto utilizado nos curos de lógica de programação da Alura.</p>
